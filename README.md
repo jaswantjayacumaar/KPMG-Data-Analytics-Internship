@@ -60,6 +60,18 @@ The **KPMG Data Analytics Virtual Internship** is designed to help participants 
 * What marketing and growth strategy should Sprocket Central adopt?
 * What additional external datasets could provide greater insights into customer preferences and buying behaviour?
 
----
 
-Let me know if you'd like to include a section with technologies used or sample screenshots of the dashboard.
+## 📄 Certificate
+
+Click [here to view the certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_jknuBhgXJfSLAqrfw_1687169720961_completion_certificate.pdf)
+
+
+## 🏁 Conclusion
+
+This project simulates a real-world consulting scenario, allowing participants to:
+
+* Conduct end-to-end data analysis.
+
+* Gain experience with industry tools.
+
+* Translate technical findings into business recommendations.
